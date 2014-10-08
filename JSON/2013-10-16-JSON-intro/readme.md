@@ -7,7 +7,7 @@ Data interchange format. Simple. Plain text. With curly braces.
 	"name": "JSON",
 	"nature": "kind",
 	"type": "interchange format",
-	"loved_by": ["web apps", "services"]
+	"loved_by": ["web apps", "services", "me"]
 }
 
 ## What should I do with it?
